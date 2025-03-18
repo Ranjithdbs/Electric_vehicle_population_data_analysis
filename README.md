@@ -19,7 +19,7 @@ Analyze EV adoption trends from 2011 to 2024, identifying popular models and reg
 •	Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 •	Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
--Dashborad Interaction <a href="https://github.com/Ranjithdbs/Electric_vehicle_population_data_analysis/blob/main/Electric%20Vehicle%20Data%20Analysis.png>View Dashboard</a>
+-Dashborad Interaction <a href="https://github.com/Ranjithdbs/Electric_vehicle_population_data_analysis/blob/main/Electric%20Vehicle%20Data%20Analysis.png">View Dashboard</a>
 
 ## Insights
   Analyzed EV population data, revealing a sharp growth trend in 2023 and Tesla’s market dominance (45.83%). Identified geographic disparities in EV adoption, with 
