@@ -21,6 +21,13 @@ Analyze EV adoption trends from 2011 to 2024, identifying popular models and reg
 
 -Dashborad Interaction <a href="https://github.com/Ranjithdbs/Electric_vehicle_population_data_analysis/blob/main/Electric%20Vehicle%20Data%20Analysis.png">View Dashboard</a>
 
-## Insights
+## Key Insights:
+  Strong growth in 2023 shows rising EV adoption, but the 2024 drop signals a possible data gap or market shift.
+  Tesla's market dominance highlights its competitive edge, while other manufacturers hold smaller shares.
+  Geographic disparities indicate a need for targeted infrastructure development in low-adoption states.
+  The 67.83-mile average range suggests the presence of older or lower-range EVs, emphasizing the need for newer, long-range vehicles.
+  CAFV eligibility data gaps highlight inconsistent reporting, which could impact policy and incentive accuracy.
+
+## conclusion
   Analyzed EV population data, revealing a sharp growth trend in 2023 and Tesla’s market dominance (45.83%). Identified geographic disparities in EV adoption, with 
   Washington leading. Highlighted the need for infrastructure expansion and longer-range vehicles based on an average EV range of 67.83 miles
